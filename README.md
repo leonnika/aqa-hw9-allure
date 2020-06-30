@@ -70,4 +70,4 @@ gradlew allureServe (запуск и открытие отчетов)
 
 ## Результаты отчетов
 
-[Отчет сформированный фреймворком allure](https://github.com/leonnika/aqa-hw5-faker/issues/6)
+[Отчетs сформированныt фреймворком allure](https://github.com/leonnika/aqa-hw9-allure/tree/master/build/reports/allure-report)
