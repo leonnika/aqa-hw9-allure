@@ -1,0 +1,145 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Element not found {with text: Встреча на эту дату уже запланирована!}\r\nExpected: visible\r\nScreenshot: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546284820.0.png\r\nPage source: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546284820.0.html\r\nTimeout: 15 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//*/text()[contains(normalize-space(translate(string(.), '",
+      "children" : [ {
+        "name" : "shouldNotReplanMeetingDatesEqual()",
+        "uid" : "5ee96e5fae122769",
+        "parentUid" : "b5967dbe2e4efde311a8cae8e303215b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593546265703,
+          "stop" : 1593546285915,
+          "duration" : 20212
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b5967dbe2e4efde311a8cae8e303215b"
+    }, {
+      "name" : "expected: <rgba(255, 92, 92, 1)> but was: <rgba(11, 31, 53, 0.95)>",
+      "children" : [ {
+        "name" : "shouldNotReplanMeetingDateValidCheckIsNot()",
+        "uid" : "910b0f50938b21",
+        "parentUid" : "8976cb17ebf970d2a9f2461c7b9a18f9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593546286044,
+          "stop" : 1593546289501,
+          "duration" : 3457
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8976cb17ebf970d2a9f2461c7b9a18f9"
+    }, {
+      "name" : "Element should have exact text 'Имя и Фамилия указаные неверно. Допустимы только русские буквы, пробелы и дефисы.' {[class='input__sub']}\r\nElement: '<span class=\"input__sub\">Укажите точно как в паспорте</span>'\r\nScreenshot: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546306570.1.png\r\nPage source: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546306570.1.html\r\nTimeout: 4 s.",
+      "children" : [ {
+        "name" : "shouldNotReplanMeetingNameDifferentCaseLetters()",
+        "uid" : "359419162a2de3db",
+        "parentUid" : "b1c961a527fdf09a0509c802a2e64a46",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593546299164,
+          "stop" : 1593546307309,
+          "duration" : 8145
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b1c961a527fdf09a0509c802a2e64a46"
+    }, {
+      "name" : "Element should be visible {with text: Успешно!}\r\nElement: '<div class=\"notification__title\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546325088.2.png\r\nPage source: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546325088.2.html\r\nTimeout: 15 s.",
+      "children" : [ {
+        "name" : "shouldNotReplanMeetingNameletterYO()",
+        "uid" : "d98f1dab74d1a311",
+        "parentUid" : "953292c310a6b116589ef055eb55a2b1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593546307358,
+          "stop" : 1593546325744,
+          "duration" : 18386
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "953292c310a6b116589ef055eb55a2b1"
+    }, {
+      "name" : "Element should have exact text 'Телефон указан неверно. Должно быть 11 цифр, например, +79012345678.' {[class='input__sub']}\r\nElement: '<span class=\"input__sub\">На указанный номер моб. тел. будет отправлен смс-код для подтверждения заявки на карту. Проверьте, что номер ваш и введен корректно.</span>'\r\nScreenshot: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546335001.3.png\r\nPage source: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546335001.3.html\r\nTimeout: 4 s.",
+      "children" : [ {
+        "name" : "shouldNotReplanMeetingPhoneNotValid()",
+        "uid" : "da291a54a89eee23",
+        "parentUid" : "133c7206e4744fde8d17bbd65f40fe44",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593546328507,
+          "stop" : 1593546335699,
+          "duration" : 7192
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "133c7206e4744fde8d17bbd65f40fe44"
+    }, {
+      "name" : "Element should have exact text 'Имя и Фамилия указаные неверно. Допустимы только русские буквы, пробелы и дефисы.' {[class='input__sub']}\r\nElement: '<span class=\"input__sub\">Укажите точно как в паспорте</span>'\r\nScreenshot: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546342357.4.png\r\nPage source: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546342357.4.html\r\nTimeout: 4 s.",
+      "children" : [ {
+        "name" : "shouldNotReplanMeetingNameNotValid()",
+        "uid" : "58f7dbeb5fa2a4cd",
+        "parentUid" : "264c5eba9db0279400322f88c3c2e803",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593546335730,
+          "stop" : 1593546343032,
+          "duration" : 7302
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "264c5eba9db0279400322f88c3c2e803"
+    }, {
+      "name" : "Element should have exact text 'Телефон указан неверно. Должно быть 11 цифр, например, +79012345678.' {[class='input__sub']}\r\nElement: '<span class=\"input__sub\">На указанный номер моб. тел. будет отправлен смс-код для подтверждения заявки на карту. Проверьте, что номер ваш и введен корректно.</span>'\r\nScreenshot: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546349508.5.png\r\nPage source: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546349508.5.html\r\nTimeout: 4 s.",
+      "children" : [ {
+        "name" : "shouldNotReplanMeetingPhoneSpecialSymbols()",
+        "uid" : "a58554f4181be14a",
+        "parentUid" : "1df4639a2ecc4831b8dd388f4895ea08",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593546343064,
+          "stop" : 1593546350199,
+          "duration" : 7135
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1df4639a2ecc4831b8dd388f4895ea08"
+    }, {
+      "name" : "Element not found {[type='tel'][placeholder='Дата встречи']}\r\nExpected: visible or transparent: visible or have css value opacity=0\r\nScreenshot: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546355167.6.png\r\nPage source: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546355167.6.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[type='tel'][placeholder='Дата встречи']\"}",
+      "children" : [ {
+        "name" : "shouldNotReplanMeetingCitySpecialSymbols()",
+        "uid" : "f83e2bb05e72ee32",
+        "parentUid" : "7633eba8ec7d4227488ee428821b0875",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593546350229,
+          "stop" : 1593546355802,
+          "duration" : 5573
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7633eba8ec7d4227488ee428821b0875"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

@@ -1,0 +1,233 @@
+{
+  "uid" : "409018355ed1afb4",
+  "name" : "shouldNotReplanMeetingDateSpesialSymbol()",
+  "fullName" : "ru.netology.test.DeliveryTest$SpecialSymbolsInFieldsOtions.shouldNotReplanMeetingDateSpesialSymbol",
+  "historyId" : "da6f852c3d285eacc20f15596f96b076",
+  "time" : {
+    "start" : 1593546358486,
+    "stop" : 1593546360888,
+    "duration" : 2402
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "$(\"open\") http://localhost:9999",
+      "time" : {
+        "start" : 1593546358487,
+        "stop" : 1593546358948,
+        "duration" : 461
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"[placeholder='Город']\") set value(Краснодар)",
+      "time" : {
+        "start" : 1593546358948,
+        "stop" : 1593546359368,
+        "duration" : 420
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"[type='tel'][placeholder='Дата встречи']\") click()",
+      "time" : {
+        "start" : 1593546359368,
+        "stop" : 1593546359496,
+        "duration" : 128
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"[type='tel'][placeholder='Дата встречи']\") send keys([, , ])",
+      "time" : {
+        "start" : 1593546359497,
+        "stop" : 1593546359604,
+        "duration" : 107
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"[type='tel'][placeholder='Дата встречи']\") set value(%%%%%%%%%%)",
+      "time" : {
+        "start" : 1593546359604,
+        "stop" : 1593546359846,
+        "duration" : 242
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"[name='name']\") set value(Котов Макар)",
+      "time" : {
+        "start" : 1593546359846,
+        "stop" : 1593546360166,
+        "duration" : 320
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"[name='phone']\") set value(+94686294312)",
+      "time" : {
+        "start" : 1593546360166,
+        "stop" : 1593546360513,
+        "duration" : 347
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"[role='presentation']\") click()",
+      "time" : {
+        "start" : 1593546360513,
+        "stop" : 1593546360625,
+        "duration" : 112
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"button.findBy(exact text 'Запланировать')\") click()",
+      "time" : {
+        "start" : 1593546360625,
+        "stop" : 1593546360816,
+        "duration" : 191
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"[data-test-id='date']\") $([class='input__sub'])",
+      "time" : {
+        "start" : 1593546360816,
+        "stop" : 1593546360816,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"[class='input__sub']\") should have(exact text 'Неверно введена дата')",
+      "time" : {
+        "start" : 1593546360816,
+        "stop" : 1593546360888,
+        "duration" : 72
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 11,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "LenovoE330-W10"
+  }, {
+    "name" : "thread",
+    "value" : "16520@LenovoE330-W10.Test worker(13)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "ru.netology.test.DeliveryTest$SpecialSymbolsInFieldsOtions"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.netology.test.DeliveryTest$SpecialSymbolsInFieldsOtions"
+  }, {
+    "name" : "testMethod",
+    "value" : "shouldNotReplanMeetingDateSpesialSymbol"
+  }, {
+    "name" : "suite",
+    "value" : "ru.netology.test.DeliveryTest.SpecialSymbolsInFieldsOtions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "409018355ed1afb4.json",
+  "parameterValues" : [ ]
+}

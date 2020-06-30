@@ -1,0 +1,371 @@
+{
+  "381898986f81fbb91728a4310499bb62" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e4cadf2d4038e476",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593546289615,
+        "stop" : 1593546293398,
+        "duration" : 3783
+      }
+    } ]
+  },
+  "207a4705fc1d73fc1168a7675f4fb07" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "46375ef87840a129",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593546296529,
+        "stop" : 1593546299128,
+        "duration" : 2599
+      }
+    } ]
+  },
+  "da6f852c3d285eacc20f15596f96b076" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "409018355ed1afb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593546358486,
+        "stop" : 1593546360888,
+        "duration" : 2402
+      }
+    } ]
+  },
+  "4655345b2f4957613c66aa22604c1a3e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7906671e871d7f08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593546236452,
+        "stop" : 1593546265082,
+        "duration" : 28630
+      }
+    } ]
+  },
+  "7752185d7a9b90004beb4af938393b6e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cd9efc80eae39cf6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593546367486,
+        "stop" : 1593546369628,
+        "duration" : 2142
+      }
+    } ]
+  },
+  "e8d9cad8dbd46738e2ea3cf278e926ed" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d98f1dab74d1a311",
+      "status" : "failed",
+      "statusDetails" : "Element should be visible {with text: Успешно!}\r\nElement: '<div class=\"notification__title\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546325088.2.png\r\nPage source: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546325088.2.html\r\nTimeout: 15 s.",
+      "time" : {
+        "start" : 1593546307358,
+        "stop" : 1593546325744,
+        "duration" : 18386
+      }
+    } ]
+  },
+  "28ad7271959736477c3b517644da78ae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1314ef454d0d6ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593546365382,
+        "stop" : 1593546367461,
+        "duration" : 2079
+      }
+    } ]
+  },
+  "89a491e79aafaceb876dbe026d57a081" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7d39ee50cd909776",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593546325786,
+        "stop" : 1593546328481,
+        "duration" : 2695
+      }
+    } ]
+  },
+  "fcc87f34a997cee8dc3a83ca5c0008b9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f5f4a9a854577ea0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593546293452,
+        "stop" : 1593546296494,
+        "duration" : 3042
+      }
+    } ]
+  },
+  "f9a4b757ef3a689593df5dcc3eec883d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "58f7dbeb5fa2a4cd",
+      "status" : "failed",
+      "statusDetails" : "Element should have exact text 'Имя и Фамилия указаные неверно. Допустимы только русские буквы, пробелы и дефисы.' {[class='input__sub']}\r\nElement: '<span class=\"input__sub\">Укажите точно как в паспорте</span>'\r\nScreenshot: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546342357.4.png\r\nPage source: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546342357.4.html\r\nTimeout: 4 s.",
+      "time" : {
+        "start" : 1593546335730,
+        "stop" : 1593546343032,
+        "duration" : 7302
+      }
+    } ]
+  },
+  "72e0dc4986eaa1ee6a19e949b0ef7754" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f83e2bb05e72ee32",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[type='tel'][placeholder='Дата встречи']}\r\nExpected: visible or transparent: visible or have css value opacity=0\r\nScreenshot: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546355167.6.png\r\nPage source: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546355167.6.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[type='tel'][placeholder='Дата встречи']\"}",
+      "time" : {
+        "start" : 1593546350229,
+        "stop" : 1593546355802,
+        "duration" : 5573
+      }
+    } ]
+  },
+  "105297c6a034a0927847af9a0e8126dd" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "da291a54a89eee23",
+      "status" : "failed",
+      "statusDetails" : "Element should have exact text 'Телефон указан неверно. Должно быть 11 цифр, например, +79012345678.' {[class='input__sub']}\r\nElement: '<span class=\"input__sub\">На указанный номер моб. тел. будет отправлен смс-код для подтверждения заявки на карту. Проверьте, что номер ваш и введен корректно.</span>'\r\nScreenshot: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546335001.3.png\r\nPage source: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546335001.3.html\r\nTimeout: 4 s.",
+      "time" : {
+        "start" : 1593546328507,
+        "stop" : 1593546335699,
+        "duration" : 7192
+      }
+    } ]
+  },
+  "55ec0cfa5fc134fe21e1ff061b64ae6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "910b0f50938b21",
+      "status" : "failed",
+      "statusDetails" : "expected: <rgba(255, 92, 92, 1)> but was: <rgba(11, 31, 53, 0.95)>",
+      "time" : {
+        "start" : 1593546286044,
+        "stop" : 1593546289501,
+        "duration" : 3457
+      }
+    } ]
+  },
+  "368e7ebbf6747e65cb39bb243645e22d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "359419162a2de3db",
+      "status" : "failed",
+      "statusDetails" : "Element should have exact text 'Имя и Фамилия указаные неверно. Допустимы только русские буквы, пробелы и дефисы.' {[class='input__sub']}\r\nElement: '<span class=\"input__sub\">Укажите точно как в паспорте</span>'\r\nScreenshot: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546306570.1.png\r\nPage source: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546306570.1.html\r\nTimeout: 4 s.",
+      "time" : {
+        "start" : 1593546299164,
+        "stop" : 1593546307309,
+        "duration" : 8145
+      }
+    } ]
+  },
+  "aa2a304675463d3d1024ed28a124a7fa" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a58554f4181be14a",
+      "status" : "failed",
+      "statusDetails" : "Element should have exact text 'Телефон указан неверно. Должно быть 11 цифр, например, +79012345678.' {[class='input__sub']}\r\nElement: '<span class=\"input__sub\">На указанный номер моб. тел. будет отправлен смс-код для подтверждения заявки на карту. Проверьте, что номер ваш и введен корректно.</span>'\r\nScreenshot: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546349508.5.png\r\nPage source: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546349508.5.html\r\nTimeout: 4 s.",
+      "time" : {
+        "start" : 1593546343064,
+        "stop" : 1593546350199,
+        "duration" : 7135
+      }
+    } ]
+  },
+  "b2ce6c636c38c65a93203e96259b6306" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e85b91f02dddfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593546360935,
+        "stop" : 1593546363119,
+        "duration" : 2184
+      }
+    } ]
+  },
+  "5b674fdf1177fb3b05b4ad9c8870a45b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a2adc7f2f83215cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593546355831,
+        "stop" : 1593546358455,
+        "duration" : 2624
+      }
+    } ]
+  },
+  "47b6ef777a0796445ad71b6e6ff6435b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5ee96e5fae122769",
+      "status" : "failed",
+      "statusDetails" : "Element not found {with text: Встреча на эту дату уже запланирована!}\r\nExpected: visible\r\nScreenshot: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546284820.0.png\r\nPage source: file:/D:/REA/java_project/AQA/hw9-reporting/build/reports/tests/1593546284820.0.html\r\nTimeout: 15 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//*/text()[contains(normalize-space(translate(string(.), '",
+      "time" : {
+        "start" : 1593546265703,
+        "stop" : 1593546285915,
+        "duration" : 20212
+      }
+    } ]
+  },
+  "3f87f0aef377903567305c5ad3c9f880" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ddad296ecf1f17b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593546363212,
+        "stop" : 1593546365356,
+        "duration" : 2144
+      }
+    } ]
+  }
+}

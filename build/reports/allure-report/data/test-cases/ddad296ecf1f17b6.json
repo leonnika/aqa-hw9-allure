@@ -1,0 +1,203 @@
+{
+  "uid" : "ddad296ecf1f17b6",
+  "name" : "shouldNotReplanMeetingCityEmpty()",
+  "fullName" : "ru.netology.test.DeliveryTest$EmptyFieldsOtions.shouldNotReplanMeetingCityEmpty",
+  "historyId" : "3f87f0aef377903567305c5ad3c9f880",
+  "time" : {
+    "start" : 1593546363212,
+    "stop" : 1593546365356,
+    "duration" : 2144
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "$(\"open\") http://localhost:9999",
+      "time" : {
+        "start" : 1593546363215,
+        "stop" : 1593546363697,
+        "duration" : 482
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"[type='tel'][placeholder='Дата встречи']\") click()",
+      "time" : {
+        "start" : 1593546363698,
+        "stop" : 1593546363899,
+        "duration" : 201
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"[type='tel'][placeholder='Дата встречи']\") send keys([, , ])",
+      "time" : {
+        "start" : 1593546363899,
+        "stop" : 1593546364038,
+        "duration" : 139
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"[type='tel'][placeholder='Дата встречи']\") set value(08 07 2020)",
+      "time" : {
+        "start" : 1593546364038,
+        "stop" : 1593546364327,
+        "duration" : 289
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"[name='name']\") set value(Попова Дмитрий)",
+      "time" : {
+        "start" : 1593546364328,
+        "stop" : 1593546364683,
+        "duration" : 355
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"[name='phone']\") set value(+48781527887)",
+      "time" : {
+        "start" : 1593546364683,
+        "stop" : 1593546365014,
+        "duration" : 331
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"[role='presentation']\") click()",
+      "time" : {
+        "start" : 1593546365014,
+        "stop" : 1593546365128,
+        "duration" : 114
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"button.findBy(exact text 'Запланировать')\") click()",
+      "time" : {
+        "start" : 1593546365128,
+        "stop" : 1593546365300,
+        "duration" : 172
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "$(\"[class='input__sub']\") should have(exact text 'Поле обязательно для заполнения')",
+      "time" : {
+        "start" : 1593546365300,
+        "stop" : 1593546365356,
+        "duration" : 56
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 9,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "LenovoE330-W10"
+  }, {
+    "name" : "thread",
+    "value" : "16520@LenovoE330-W10.Test worker(13)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "ru.netology.test.DeliveryTest$EmptyFieldsOtions"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.netology.test.DeliveryTest$EmptyFieldsOtions"
+  }, {
+    "name" : "testMethod",
+    "value" : "shouldNotReplanMeetingCityEmpty"
+  }, {
+    "name" : "suite",
+    "value" : "ru.netology.test.DeliveryTest.EmptyFieldsOtions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ddad296ecf1f17b6.json",
+  "parameterValues" : [ ]
+}

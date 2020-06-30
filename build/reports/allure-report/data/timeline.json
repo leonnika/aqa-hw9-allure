@@ -1,0 +1,260 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LenovoE330-W10",
+    "children" : [ {
+      "name" : "16520@LenovoE330-W10.Test worker(13)",
+      "children" : [ {
+        "name" : "shouldNotReplanMeetingDateSpesialSymbol()",
+        "uid" : "409018355ed1afb4",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593546358486,
+          "stop" : 1593546360888,
+          "duration" : 2402
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanMeetingCityEmpty()",
+        "uid" : "ddad296ecf1f17b6",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593546363212,
+          "stop" : 1593546365356,
+          "duration" : 2144
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanMeetingPhoneEmpty()",
+        "uid" : "cd9efc80eae39cf6",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593546367486,
+          "stop" : 1593546369628,
+          "duration" : 2142
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanMeetingNameNotValid()",
+        "uid" : "58f7dbeb5fa2a4cd",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593546335730,
+          "stop" : 1593546343032,
+          "duration" : 7302
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanMeetingCityNotValid()",
+        "uid" : "7d39ee50cd909776",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593546325786,
+          "stop" : 1593546328481,
+          "duration" : 2695
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanMeetingShortName()",
+        "uid" : "46375ef87840a129",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593546296529,
+          "stop" : 1593546299128,
+          "duration" : 2599
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldReplanMeetingDataValid()",
+        "uid" : "7906671e871d7f08",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593546236452,
+          "stop" : 1593546265082,
+          "duration" : 28630
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanMeetingCitySpecialSymbols()",
+        "uid" : "f83e2bb05e72ee32",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593546350229,
+          "stop" : 1593546355802,
+          "duration" : 5573
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanMeetingNameletterYO()",
+        "uid" : "d98f1dab74d1a311",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593546307358,
+          "stop" : 1593546325744,
+          "duration" : 18386
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanMeetingDatesEqual()",
+        "uid" : "5ee96e5fae122769",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593546265703,
+          "stop" : 1593546285915,
+          "duration" : 20212
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanMeetingNameDifferentCaseLetters()",
+        "uid" : "359419162a2de3db",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593546299164,
+          "stop" : 1593546307309,
+          "duration" : 8145
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanMeetingNameSpecialSymbols()",
+        "uid" : "a2adc7f2f83215cd",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593546355831,
+          "stop" : 1593546358455,
+          "duration" : 2624
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanMeetingNameEmpty()",
+        "uid" : "e85b91f02dddfd",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593546360935,
+          "stop" : 1593546363119,
+          "duration" : 2184
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanMeetingDateEmpty()",
+        "uid" : "c1314ef454d0d6ba",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593546365382,
+          "stop" : 1593546367461,
+          "duration" : 2079
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanMeetingNameInEnglish()",
+        "uid" : "f5f4a9a854577ea0",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593546293452,
+          "stop" : 1593546296494,
+          "duration" : 3042
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanMeetingDateValidCheckIsNot()",
+        "uid" : "910b0f50938b21",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593546286044,
+          "stop" : 1593546289501,
+          "duration" : 3457
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanMeetingDubleName()",
+        "uid" : "e4cadf2d4038e476",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593546289615,
+          "stop" : 1593546293398,
+          "duration" : 3783
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanMeetingPhoneNotValid()",
+        "uid" : "da291a54a89eee23",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593546328507,
+          "stop" : 1593546335699,
+          "duration" : 7192
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanMeetingPhoneSpecialSymbols()",
+        "uid" : "a58554f4181be14a",
+        "parentUid" : "37ce5b453e640d88f2ef51215df1ca15",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593546343064,
+          "stop" : 1593546350199,
+          "duration" : 7135
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "37ce5b453e640d88f2ef51215df1ca15"
+    } ],
+    "uid" : "4c049f6997ad352c93466b5e2431a0bc"
+  } ]
+}
